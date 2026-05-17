@@ -13,7 +13,7 @@ Rol aldığım bölümler:
 - Müzik öneri sistemi (Recommendation Engine)
 - Cosine Similarity tabanlı benzerlik hesaplama
 - TF-IDF ile genre vektörleştirme
-- Öneri fonksiyonunun geliştirlmesi, parametrelerin seçimi.
+- Öneri fonksiyonunun geliştirilmesi, parametrelerin seçimi.
 - PCA ile cosine similarity uygulanması
 - Model performans optimizasyonu
 
@@ -30,6 +30,6 @@ Modelde kullanılan temel audio özellikler:
 - popularity
 - release_year
 
-- 
+
 
 
