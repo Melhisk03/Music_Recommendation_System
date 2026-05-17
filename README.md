@@ -7,6 +7,9 @@ Sistemin amacı, kullanıcının girdiği şarkıların ses özelliklerini, tür
 
 Veri seti (Genel_veriseti) Kaggle'dan alınan 3 adet veri setinin birleştirilmesiyle oluşturulmuştur.
 
+VerisetKod-Analiz dosyasında elde edilen Genel_veriseti kullanılarak, modeller eğitilmiştir.
+Veri seti Drive'a yüklenerek Colab'a import edilmiştir. Dosyalar Colab'da açıldığında çıktılar görülebilmektedir.
+
 Proje bir ekip çalışması olarak gerçekleştirilmiştir.
 
 Rol aldığım bölümler:
@@ -16,6 +19,16 @@ Rol aldığım bölümler:
 - Öneri fonksiyonunun geliştirilmesi, parametrelerin seçimi.
 - PCA ile cosine similarity uygulanması
 - Model performans optimizasyonu
+
+Kullanılan Teknolojiler
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- SciPy
+- Matplotlib
+- Seaborn
+- Google Colab
 
 Modelde kullanılan temel audio özellikler:
 - danceability
